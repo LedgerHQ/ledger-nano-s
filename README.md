@@ -2,7 +2,7 @@
 
 The Ledger Nano S is a personal lightweight mobile device architectured around a ST31 secure element with USB connectivity.
 
-It is based on [BOLOS](https://medium.com/@Ledger/introducing-bolos-blockchain-open-ledger-operating-system-b9893d09f333) (Blockchain Open Ledger Operating System), where apps can run securely in full isolation and leverage the main secrets (BIP39 seed) through allocated derivations.
+It is based on [BOLOS](https://medium.com/@Ledger/introducing-bolos-blockchain-open-ledger-operating-system-b9893d09f333) (Blockchain Open Ledger Operating System), where apps can run securely in full isolation and leverage the main secrets (BIP39 seed) through allocated derivations. The functional architecture and project goals are described in the following Medium post : https://medium.com/@Ledger/secure-hardware-and-open-source-ecd26579d839 
 
 The Nano S can be purchased from [Ledger shop](https://www.ledgerwallet.com/products/12-ledger-nano-s) and resellers.
 
