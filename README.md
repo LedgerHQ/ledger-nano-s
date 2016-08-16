@@ -26,11 +26,9 @@ Developers need to clone the following repositories and follow the building inst
 
 * FIDO U2F token : https://github.com/LedgerHQ/blue-app-u2f
 
-Release signature images to be added.
-
 # Applications under development 
 
-* PGP/SSH agent : https://github.com/LedgerHQ/blue-app-ssh-agent, to be tested with https://github.com/btchip/trezor-agent on the ledger branch
+* PGP/SSH agent : https://github.com/LedgerHQ/blue-app-ssh-agent, to be tested with https://github.com/romanz/trezor-agent on the ledger branch
 
 # Sample applications 
 
