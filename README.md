@@ -32,9 +32,14 @@ Developers need to clone the following repositories and follow the building inst
 
 # Sample applications 
 
-To be added
+You can review sample applications on https://github.com/LedgerHQ/blue-sample-apps
 
 # Documentation
 
 To be added
+
+# Slack 
+
+To discuss your projects and get support, please join our slack at http://slack.ledger.co
+ 
 
